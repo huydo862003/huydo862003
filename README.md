@@ -1,11 +1,15 @@
 [![Holistics](https://img.shields.io/badge/Working%20at-Holistics.io-4B89DC?style=flat)](https://www.holistics.io)
 [![DBX](https://img.shields.io/badge/Working%20at-DBX-000000?style=flat)](https://www.holistics.io)
 
+> I'm migrating my codebases from AI 😵‍💫 I felt like I rushed my craft way too much. I wanted to have an authentic feel of my crafts and myself!
+> All repos with AI usages will be flagged as <img src="https://img.shields.io/badge/migrating%20from%20AI-FA003F"></img>.
+> All repos with no AI usages or with minimal AI usages but do not rely on any of the AI usages will be flagged as <img src="https://img.shields.io/badge/fck%20AI%20slop-90EE90"></img>
+
 Currently working at Holistics/DBX.
 
 I'm interested in these areas of computer science:
 
-- Type & language theory
+- Type & language theory (Current focus - but postponed to migrate my codebases from AI 😤)
 - Logic & Formal system
 - Category theory
 - Concurrency theory
