@@ -1,5 +1,6 @@
 [![Holistics](https://img.shields.io/badge/Working%20at-Holistics.io-4B89DC?style=flat)](https://www.holistics.io)
 [![DBX](https://img.shields.io/badge/Working%20at-DBX-000000?style=flat)](https://www.holistics.io)
+<a href="https://github.com/huydo862003/Fck-AI-Slop#plan"><img src="https://img.shields.io/badge/human%20slop-90EE90"></a>
 
 > I'm migrating my codebases from AI 😵‍💫 I felt like I rushed my craft way too much. I wanted to have an authentic feel of my crafts and myself!
 > All repos with AI usages will be flagged as <img src="https://img.shields.io/badge/AI%20slop-FA003F">.
