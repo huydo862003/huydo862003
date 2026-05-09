@@ -11,6 +11,7 @@ Currently working at Holistics/DBX.
 I'm interested in these areas of computer science:
 
 - Type & language theory (Current focus - but postponed to migrate my codebases from AI 😤)
+- Music theory
 - Logic & Formal system
 - Category theory
 - Concurrency theory
